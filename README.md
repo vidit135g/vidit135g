@@ -124,8 +124,6 @@ Security professional and builder. Days spent hardening cloud infrastructure at 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vidit135g&theme=flat&no-frame=true&column=6&margin-w=8&title_color=A78BFA&label_color=9CA3AF&icon_color=C4B5FD" width="96%"/>
-
 </div>
 
 <br/>
